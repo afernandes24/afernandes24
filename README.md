@@ -4,7 +4,7 @@
 
   <p>
     Łączę analityczne wykształcenie z praktycznym programowaniem.<br />
-    Projektuję i wdrażam rozwiązania <strong>e-commerce (Shopify)</strong>, stale rozwijając warsztat w obszarze <strong>analizy danych</strong>.
+    Projektuję i wdrażam rozwiązania <strong>e-commerce</strong>, stale rozwijając warsztat w obszarze <strong>analizy danych</strong>.
   </p>
 
   <!-- Kontakt -->
