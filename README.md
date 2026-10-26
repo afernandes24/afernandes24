@@ -35,6 +35,7 @@
 | [**Trend Following**](https://github.com/afernandes24/trend) | Analiza rynków: wskaźniki, scoring, backtest, alerty na Telegram | Python · FastAPI · pandas · pytest |
 | [**Tasker API**](https://github.com/afernandes24/tasker-api) | REST API z testami, Dockerem i CI/CD | Python · FastAPI · pytest · Docker · GitHub Actions |
 | [**Movie Rental API**](https://github.com/afernandes24/movie-rental-api) | API wypożyczalni filmów z autoryzacją JWT | Node.js · Express · MongoDB · JWT |
+| [**AiNova**](https://github.com/afernandes24/ainova) | Klasyfikacja przetworzenia żywności (NOVA) z tekstu składu – 88,9% accuracy | Python · TensorFlow · Keras (LSTM) · pandas |
 
 ---
 
@@ -55,6 +56,8 @@
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
 **Bazy danych:**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
