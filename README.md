@@ -35,6 +35,7 @@
 | [**Trend Following**](https://github.com/afernandes24/trend) | Analiza rynków: wskaźniki, scoring, backtest, alerty na Telegram | Python · FastAPI · pandas · pytest |
 | [**Tasker API**](https://github.com/afernandes24/tasker-api) | REST API z testami, Dockerem i CI/CD | Python · FastAPI · pytest · Docker · GitHub Actions |
 | [**Movie Rental API**](https://github.com/afernandes24/movie-rental-api) | API wypożyczalni filmów z autoryzacją JWT | Node.js · Express · MongoDB · JWT |
+| [**Plan treningowy**](https://github.com/afernandes24/trening) | Aplikacja PWA do planu siłowego – zapis serii, timer, wykresy progresu, działa offline | JavaScript · HTML/CSS · PWA · GitHub Pages |
 | [**AiNova**](https://github.com/afernandes24/ainova) | Klasyfikacja przetworzenia żywności (NOVA) z tekstu składu – 88,9% accuracy | Python · TensorFlow · Keras (LSTM) · pandas |
 
 ---
